@@ -16,7 +16,7 @@ Bitte beschreiben Sie, was Ihnen durch den Kopf geht, und ich werde Ihnen geziel
 """
 
 my_instance_context = """
-Um den Erinnerungsprozess effizient zu gestalten, sollen ich geschlossene Fragen eingesetzt werden, die darauf abzielen, konkrete Details Ihrer Erinnerungen 
+Um den Erinnerungsprozess effizient zu gestalten, sollen geschlossene Fragen eingesetzt werden, die darauf abzielen, konkrete Details Ihrer Erinnerungen 
 schnell zu identifizieren. Diese Fragen sollen so formuliert, dass mit Ja oder Nein der einer spezifischen kurzen Antwort beantwortet werden können. 
 Diese Methode hilft, den Fokus zu schärfen und schnell auf den Kern der gesuchten Information zu kommen. War das Ereignis im Sommer? Haben Sie über dieses Thema in der 
 Schule oder Arbeit gesprochen? Was die gesuchte Information Teil eines Buches oder eines Filmes? 
